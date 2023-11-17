@@ -1,8 +1,9 @@
 Metadata-Version: 2.1
 Name: pkg
-Version: 0.1
+Version: 1.2
 Summary: this is for the test demo
-Home-page: #
+Home-page: https://github.com/hasanahmadi781377/pkg
 Author: Hasan ahmadi
 Author-email: hasanahmadi781377@gmail.com
 License: MIT
+Requires-Dist: Django
